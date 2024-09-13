@@ -30,7 +30,7 @@ export default function Skills() {
     
     return(
         <div className="Skills">
-            <h1 style={HeadingFontSize}>Skills</h1>
+            <h1 style={HeadingFontSize}>Expertise</h1>
             <div style={SkillsContainer}>
                     {Skills.map((Item, Index) => 
                         <div className="SkillsMap">
