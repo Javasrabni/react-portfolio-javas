@@ -251,7 +251,7 @@ export default function PortfolioSect() {
                             <DevProject 
                                 ActivedNewest={ActivedNewest}
                                 NameProject={'Labeltic'}
-                                Date={'4 August 2024 - 17 Augus 2024'}
+                                Date={'4 August 2024 - 17 August 2024'}
                                 Desc={'Helping to count a large number of lists quickly, labeltic has a replace text feature, which helps make it easier to edit text that has a large number of words.'}
                                 Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1724169627/Labeltic_demo_vid_ilyeh2.mp4'}
                                 AltThumb={'Labeltic.xyz'}
