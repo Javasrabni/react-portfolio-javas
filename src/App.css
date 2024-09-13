@@ -147,7 +147,7 @@ p {
 .SkillsMap {
   border: 1px solid var(--border);
   padding: 4px 8px;
-  border-radius: 8px;
+  border-radius: 6px;
 }
 
 .Portfolio {

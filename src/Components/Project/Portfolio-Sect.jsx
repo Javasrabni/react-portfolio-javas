@@ -154,7 +154,7 @@ export default function PortfolioSect() {
                         )}
                     </div>
                     {!MobileMode && (
-                        <p>(4git)</p>
+                        <p>(4)</p>
                     )}
                 </div>
                 <div onClick={HandleActiveUI} style={{cursor: "pointer", display: "flex", gap: '8px', alignItems: "center", justifyContent: "space-between"}}>
