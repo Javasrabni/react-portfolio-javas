@@ -1,0 +1,25 @@
+{
+  "short_name": "Javasrabni",
+  "name": "Javas Anggaraksa Rabbani - Portfolio/Personal Web",
+  "icons": [
+    {
+      "src": "LogoJ.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "LogoJ.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "LogoJ.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}

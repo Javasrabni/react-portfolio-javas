@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--accent);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--muted-foreground);
+}
+
+body {
+  -webkit-tap-highlight-color: transparent; /* Safari dan Chrome */
+  tap-highlight-color: transparent; /* Firefox */
+}
+
+:root {
+  --background: #08090A;
+  --foreground: #fafafa;
+  --card: #050505;
+  --card-foreground: #fafafa;
+  --popover: #050505;
+  --popover-foreground: #fafafa;
+  --primary: #fafafa;
+  --primary-foreground: #0a0a0a;
+  --secondary: #262626;
+  --secondary-foreground: #fafafa;
+  --muted: #262626;
+  --muted-foreground: #a2a2a2;
+  --accent: #262626;
+  --accent-foreground: #fafafa;
+  --destructive: #9d2121;
+  --destructive-foreground: #fafafa;
+  --border: #262626;
+  --input: #262626;
+  --ring: #d4d4d4;
+  
+}
+
+:root {
+  --font-sans: "Inter", "__Inter_Fallback_aaf875";
+}
+
+h1 {
+  font-weight: 700;
+}
+
+p {
+  color: var(--muted-foreground);
+}
+
+.App {
+  background-color: var(--background);
+  height: 100%;
+  font-family: var(--font-sans),ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  color: white;
+}
+
+/* HOME SECTION */
+.Home {
+  /* padding: 6rem 24px; */
+  max-width: 42rem;
+  min-height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.Linear-Background {
+  width: 100vw;
+  height: 4rem; 
+  background-image: linear-gradient(0deg, var(--background), transparent);
+  opacity: 70%;
+  position: fixed;
+  z-index: 10;
+  bottom: 0px;
+}
+
+
+.Profile {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  animation: ease;
+  animation-name: FadeProfile;
+  animation-duration: 0.1s;
+  animation-timeline: scroll();
+}
+
+@keyframes FadeProfile {
+  0% {
+    opacity: 100%;
+  } 30% {
+    opacity: 30%;
+  } 
+}
+
+.Nama {
+  letter-spacing: -.05em;
+  font-size: 48px;
+  line-height: 1;
+}
+.TitleMobile  {
+  line-height: 1;
+  letter-spacing: -.05em;
+  font-Size: 30px,
+}
+
+.Role {
+  line-height: 1.5rem;
+  font-size: 1rem;
+  max-width: 500px;
+  color: var(--foreground);
+}
+.RoleMobile {
+  line-height: 1rem;
+  font-size: 12px;
+  max-width: 500px;
+  color: var(--foreground);
+}
+
+/* Skills */
+.Skills {
+  animation: ease;
+  animation-name: FadeSkills;
+  animation-duration: 0.1s;
+  animation-timeline: scroll();
+}
+
+@keyframes FadeSkills {
+  20% {
+    opacity: 100%;
+  } 30% {
+    opacity: 10%;
+  } 35% {
+    opacity: 0%;
+  } 
+}
+
+.SkillsMap {
+  border: 1px solid var(--border);
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+
+.Portfolio {
+  animation-name: FadePortfolio;
+  animation-duration: 0.1s;
+  animation-timeline: scroll();
+}
+
+@keyframes FadePortfolio {
+   35% {
+    opacity: 100%;
+  } 50% {
+    opacity: 100%;
+  } 
+  60% {
+    opacity: 30%;
+  }
+}
+
+.HandleCertifeZoom {
+  animation: HandleZoomCertife 0.9s ease ;
+}
+.HandleCertifeZoomMobile {
+  transition: 0.5s;
+  animation: HandleZoomCertifeMobile 0.5s ease;
+}
+.BackFadeCertifeZoom {
+  transition: 1s;
+  animation: HandleZoomBackCertife 1s ease forwards;
+}
+
+@keyframes HandleZoomBackCertife {
+    from {
+      opacity: 0;
+    } to {
+      opacity: 1;
+    }
+}
+
+@keyframes HandleZoomCertife {
+    from {
+      transform: translateY(100%);
+    } to {
+      transform: translateY(0%);
+    }
+}
+
+@keyframes HandleZoomCertifeMobile {
+    from {
+      opacity: 0;
+    } to {
+      opacity: 1;
+    }
+}
+
+
+.Expand-certif {
+  width: 105%;
+  height: 6rem;
+  background-image: linear-gradient(0deg, var(--background), transparent);
+}
