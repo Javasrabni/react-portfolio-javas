@@ -111,7 +111,7 @@ export default function CertifeSect() {
 
                         />
 
-                        <DevProject 
+                        {/* <DevProject 
                             Certife={true}
                             Date={'March, 2024'}
                             NameCompany={'Edspert.id'}
@@ -123,7 +123,7 @@ export default function CertifeSect() {
                             AltThumb={'Certife'}
                             DisableCredential={true}
 
-                        />
+                        /> */}
                     </>
                 )}
                     </>
