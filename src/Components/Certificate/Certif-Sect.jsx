@@ -56,7 +56,7 @@ export default function CertifeSect() {
                             Date={'July, 2024'}
                             NameCompany={'Ilmuone'}
                             NameProject={'Coding Class Web Development'}
-                            ProfileCompany={'https://media.licdn.com/dms/image/D560BAQE6-qR0cj5RUg/company-logo_200_200/0/1715318912526/ilmuone_logo?e=1730332800&v=beta&t=M5OWqXlnXRRrx9O2rOUBsZkzFz7YVZIIU-5KMhQxU8w'}
+                            ProfileCompany={'https://media.licdn.com/dms/image/v2/D560BAQE6-qR0cj5RUg/company-logo_200_200/company-logo_200_200/0/1715318912526/ilmuone_logo?e=1739404800&v=beta&t=TcRXc99oX7kGTsBmYYZ5tm33K6s-tm5znRfg7cKw51U'}
 
                             Desc={'Successfully completed the Coding Class Web Development organized by Ilmuone.'}
                             Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722411134/Ilmuone_ibg4tv.jpg'}
@@ -87,7 +87,7 @@ export default function CertifeSect() {
                             Date={'March, 2024'}
                             NameCompany={'Skilvul'}
                             NameProject={'National Digital League - Web Development'}
-                            ProfileCompany={'https://media.licdn.com/dms/image/C510BAQFlVe4cQaiGAg/company-logo_200_200/0/1630587775486/skilvul_logo?e=1727913600&v=beta&t=xzmijwya2Sf5hofb3URgSFFcSjqGxlFIdQ-zpxLS0UI'}
+                            ProfileCompany={'https://media.licdn.com/dms/image/v2/C510BAQFlVe4cQaiGAg/company-logo_200_200/company-logo_200_200/0/1630587775486/skilvul_logo?e=1739404800&v=beta&t=cTjdO7isXQ-kqdOmvmlRUevU_LPYD8qZp9KO36bf4wk'}
 
                             Desc={'National competitions and competing to generate innovative ideas to solve existing problems.'}
                             Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722410213/Skilvul_gjkqys.jpg'}
@@ -165,7 +165,7 @@ export default function CertifeSect() {
                     Date={'March, 2024'}
                     NameCompany={'Skilvul'}
                     NameProject={'National Digital League - Web Development'}
-                    ProfileCompany={'https://media.licdn.com/dms/image/C510BAQFlVe4cQaiGAg/company-logo_200_200/0/1630587775486/skilvul_logo?e=1727913600&v=beta&t=xzmijwya2Sf5hofb3URgSFFcSjqGxlFIdQ-zpxLS0UI'}
+                    ProfileCompany={'https://media.licdn.com/dms/image/v2/C510BAQFlVe4cQaiGAg/company-logo_200_200/company-logo_200_200/0/1630587775486/skilvul_logo?e=1739404800&v=beta&t=cTjdO7isXQ-kqdOmvmlRUevU_LPYD8qZp9KO36bf4wk'}
 
                     Desc={'National competitions and competing to generate innovative ideas to solve existing problems.'}
                     Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722410213/Skilvul_gjkqys.jpg'}
@@ -179,7 +179,7 @@ export default function CertifeSect() {
                     Date={'July, 2024'}
                     NameCompany={'Ilmuone'}
                     NameProject={'Coding Class Web Development'}
-                    ProfileCompany={'https://media.licdn.com/dms/image/D560BAQE6-qR0cj5RUg/company-logo_200_200/0/1715318912526/ilmuone_logo?e=1730332800&v=beta&t=M5OWqXlnXRRrx9O2rOUBsZkzFz7YVZIIU-5KMhQxU8w'}
+                    ProfileCompany={'https://media.licdn.com/dms/image/v2/D560BAQE6-qR0cj5RUg/company-logo_200_200/company-logo_200_200/0/1715318912526/ilmuone_logo?e=1739404800&v=beta&t=TcRXc99oX7kGTsBmYYZ5tm33K6s-tm5znRfg7cKw51U'}
 
                     Desc={'Successfully completed the Coding Class Web Development organized by Ilmuone.'}
                     Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722411134/Ilmuone_ibg4tv.jpg'}
