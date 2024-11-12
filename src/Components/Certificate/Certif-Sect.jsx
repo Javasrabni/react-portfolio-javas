@@ -31,7 +31,7 @@ export default function CertifeSect() {
                     NameCompany={'Institut Teknologi Bandung (ITB)'}
                     NameProject={'Accounting Course'}
                     LinkCredential={'https://icecenter.itb.ac.id/tutor-certificate/?cert_hash=c7c09077f8626b5f'}
-                    ProfileCompany={'https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_200_200/0/1630672186443/itb_logo?e=1730332800&v=beta&t=JcmGp4pX3XV8vQ5k1Um3dW_M1CjRcxS3WxVtpbYzo14'}
+                    ProfileCompany={'https://media.licdn.com/dms/image/v2/C560BAQGJoYkUiQpUKA/company-logo_200_200/company-logo_200_200/0/1630672186443/itb_logo?e=1739404800&v=beta&t=Pu2pPSjCE9iHDbyvYXUxmX7iwD7-O7oXREzQfNPd-g4'}
 
                     Desc={'Successfully completed the accounting class organized by Institut Teknologi Bandung (ITB).'}
                     Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722410697/Acounting_jvxwom.jpg'}
@@ -44,7 +44,7 @@ export default function CertifeSect() {
                     NameProject={'CIP Program Cyber Security'}
                     NameCompany={'OPSWAT Academy'}
                     LinkCredential={'https://learn.opswatacademy.com/certificate/w3f5zbg7dw'}
-                    ProfileCompany={'https://media.licdn.com/dms/image/D4E0BAQFb_JWJK4Sazg/company-logo_200_200/0/1686761865930/opswat_logo?e=1727913600&v=beta&t=rBl4eUJ8tYg2yhiXvrv_FRScVCJmsijHDqk2qCwGtDg'}
+                    ProfileCompany={'https://media.licdn.com/dms/image/v2/C4D0BAQGFHynJUkXX1A/company-logo_200_200/company-logo_200_200/0/1654773205477?e=1739404800&v=beta&t=KR1lMzzKhxH7jRRJ9MmvP3lMXV4JrYW8cRpTlZnnBsM'}
 
                     Desc={'Completed the standarts and requirements and is recognized as a graduate of the introduction to CIP Program.'}
                     Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722408381/WhatsApp_Image_2024-06-22_at_10.02.16_hwdsw3.jpg'}
@@ -140,7 +140,7 @@ export default function CertifeSect() {
                     NameCompany={'Institut Teknologi Bandung (ITB)'}
                     NameProject={'Accounting Course'}
                     LinkCredential={'https://icecenter.itb.ac.id/tutor-certificate/?cert_hash=c7c09077f8626b5f'}
-                    ProfileCompany={'https://media.licdn.com/dms/image/C560BAQGJoYkUiQpUKA/company-logo_200_200/0/1630672186443/itb_logo?e=1730332800&v=beta&t=JcmGp4pX3XV8vQ5k1Um3dW_M1CjRcxS3WxVtpbYzo14'}
+                    ProfileCompany={'https://media.licdn.com/dms/image/v2/C560BAQGJoYkUiQpUKA/company-logo_200_200/company-logo_200_200/0/1630672186443/itb_logo?e=1739404800&v=beta&t=Pu2pPSjCE9iHDbyvYXUxmX7iwD7-O7oXREzQfNPd-g4'}
 
                     Desc={'Successfully completed the accounting class organized by Institut Teknologi Bandung (ITB).'}
                     Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722410697/Acounting_jvxwom.jpg'}
@@ -153,7 +153,7 @@ export default function CertifeSect() {
                     NameProject={'CIP Program Cyber Security'}
                     NameCompany={'OPSWAT Academy'}
                     LinkCredential={'https://learn.opswatacademy.com/certificate/w3f5zbg7dw'}
-                    ProfileCompany={'https://media.licdn.com/dms/image/D4E0BAQFb_JWJK4Sazg/company-logo_200_200/0/1686761865930/opswat_logo?e=1727913600&v=beta&t=rBl4eUJ8tYg2yhiXvrv_FRScVCJmsijHDqk2qCwGtDg'}
+                    ProfileCompany={'https://media.licdn.com/dms/image/v2/C4D0BAQGFHynJUkXX1A/company-logo_200_200/company-logo_200_200/0/1654773205477?e=1739404800&v=beta&t=KR1lMzzKhxH7jRRJ9MmvP3lMXV4JrYW8cRpTlZnnBsM'}
 
                     Desc={'Completed the standarts and requirements and is recognized as a graduate of the introduction to CIP Program.'}
                     Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722408381/WhatsApp_Image_2024-06-22_at_10.02.16_hwdsw3.jpg'}
@@ -219,7 +219,7 @@ export default function CertifeSect() {
 
                     />
 
-                    <DevProject 
+                    {/* <DevProject 
                         Certife={true}
                         Date={'March, 2024'}
                         NameCompany={'Edspert.id'}
@@ -231,7 +231,7 @@ export default function CertifeSect() {
                         AltThumb={'Certife'}
                         DisableCredential={true}
 
-                    />
+                    /> */}
 
                     </>
                 )}

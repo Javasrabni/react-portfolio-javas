@@ -253,7 +253,7 @@ export default function PortfolioSect() {
                                 NameProject={'JarJournal'}
                                 Date={'11 October 2024 - Now'}
                                 Desc={'Immediately available.'}
-                                Thumbnail={''}
+                                Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1731403662/lv_0_20241112161116_fmrpzl.mp4'}
                                 AltThumb={'JarJournal'}
                                 TechUsed={['React.Js', 'Tailwind CSS', 'JavaScript']}
                             />
