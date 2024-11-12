@@ -154,7 +154,7 @@ export default function PortfolioSect() {
                         )}
                     </div>
                     {!MobileMode && (
-                        <p>(4)</p>
+                        <p>(5)</p>
                     )}
                 </div>
                 <div onClick={HandleActiveUI} style={{cursor: "pointer", display: "flex", gap: '8px', alignItems: "center", justifyContent: "space-between"}}>
@@ -253,7 +253,7 @@ export default function PortfolioSect() {
                                 NameProject={'JarJournal'}
                                 Date={'11 October 2024 - Now'}
                                 Desc={'Immediately available.'}
-                                Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1724169627/Labeltic_demo_vid_ilyeh2.mp4'}
+                                Thumbnail={''}
                                 AltThumb={'JarJournal'}
                                 TechUsed={['React.Js', 'Tailwind CSS', 'JavaScript']}
                             />

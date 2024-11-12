@@ -102,7 +102,7 @@ export default function CertifeSect() {
                             Date={'July, 2024'}
                             NameCompany={'Manoosia'}
                             NameProject={'Computational Thinking'}
-                            ProfileCompany={'https://media.licdn.com/dms/image/D560BAQFIBZLsmXT_mA/company-logo_200_200/0/1680595374708/manoosia_logo?e=1730332800&v=beta&t=FFXW9z7CWS3TM2Jsfe_hnOdUAqF5sAgeWcibP-z1e5w'}
+                            ProfileCompany={'https://media.licdn.com/dms/image/v2/D560BAQFIBZLsmXT_mA/company-logo_200_200/company-logo_200_200/0/1680595374708/manoosia_logo?e=1739404800&v=beta&t=3QP36VZLBdfGsaut8HPZWuVWKci0yOFAbzQYKFOWSvM'}
 
                             Desc={'Successfully completed the Computational Thinking organized by Manoosia.'}
                             Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722411365/Manoosia_abbj4v.jpg'}
@@ -210,7 +210,7 @@ export default function CertifeSect() {
                         Date={'July, 2024'}
                         NameCompany={'Manoosia'}
                         NameProject={'Computational Thinking'}
-                        ProfileCompany={'https://media.licdn.com/dms/image/D560BAQFIBZLsmXT_mA/company-logo_200_200/0/1680595374708/manoosia_logo?e=1730332800&v=beta&t=FFXW9z7CWS3TM2Jsfe_hnOdUAqF5sAgeWcibP-z1e5w'}
+                        ProfileCompany={'https://media.licdn.com/dms/image/v2/D560BAQFIBZLsmXT_mA/company-logo_200_200/company-logo_200_200/0/1680595374708/manoosia_logo?e=1739404800&v=beta&t=3QP36VZLBdfGsaut8HPZWuVWKci0yOFAbzQYKFOWSvM'}
 
                         Desc={'Successfully completed the Computational Thinking organized by Manoosia.'}
                         Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722411365/Manoosia_abbj4v.jpg'}
