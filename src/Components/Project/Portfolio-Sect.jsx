@@ -249,6 +249,15 @@ export default function PortfolioSect() {
                 {onActiveWeb ? (
                     <div style={{flexShrink:'0', display: "flex", flexWrap: "wrap", gap: "12px", marginTop: DesktopMode ? "-60px" : "", justifyContent: MobileMode && "center"}}>
                             <DevProject 
+                                // ActivedNewest={ActivedNewest}
+                                NameProject={'JarJournal'}
+                                Date={'11 October 2024 - Now'}
+                                Desc={'Immediately available.'}
+                                Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1724169627/Labeltic_demo_vid_ilyeh2.mp4'}
+                                AltThumb={'JarJournal'}
+                                TechUsed={['React.Js', 'Tailwind CSS', 'JavaScript']}
+                            />
+                            <DevProject 
                                 ActivedNewest={ActivedNewest}
                                 NameProject={'Labeltic'}
                                 Date={'4 August 2024 - 17 August 2024'}
