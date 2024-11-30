@@ -42,7 +42,7 @@ export default function Profile() {
             {/* About */}
             <div style={About}>
                 <h1 style={HeadingFontSize}>About</h1>
-                <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}>Student at Man 1 Kota Tangerang with a keen interest in programming. I have sufficient <span style={HightLight}>experience in website production</span> and focus on user experience. Apart from coding, I also have expertise in UI/UX design. To create an attractive website display using Figma.
+                <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}>Student at Man 1 Kota Tangerang with a keen interest in programming. I have sufficient <span style={HightLight}>experience in Web/WebApp production</span> with MERN Stack and focus on functional and user experience.
                 <br /> <br />
                 And I have an ability to convert visual design (UI/UX) into functional code and optimize website display to run smoothly and responsively across various devices and browsers.</p>
             </div>

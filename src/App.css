@@ -148,6 +148,7 @@ p {
   border: 1px solid var(--border);
   padding: 4px 8px;
   border-radius: 6px;
+  align-items: center;
 }
 
 .Portfolio {

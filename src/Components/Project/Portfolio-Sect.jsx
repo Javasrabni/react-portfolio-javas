@@ -250,17 +250,17 @@ export default function PortfolioSect() {
                     <div style={{flexShrink:'0', display: "flex", flexWrap: "wrap", gap: "12px", marginTop: DesktopMode ? "-60px" : "", justifyContent: MobileMode && "center"}}>
                             <DevProject 
                                 // ActivedNewest={ActivedNewest}
-                                NameProject={'JarJournal'}
-                                Date={'11 October 2024 - Now'}
+                                NameProject={'JarJournal (Dynamic WebApp)'}
+                                Date={'11 October 2024 - Now,'}
                                 Desc={'Immediately available.'}
                                 Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1731403662/lv_0_20241112161116_fmrpzl.mp4'}
                                 AltThumb={'JarJournal'}
-                                TechUsed={['React.Js', 'Tailwind CSS', 'JavaScript']}
+                                TechUsed={['Express.Js', 'React.Js','Node.Js','JavaScript','Tailwind CSS']}
                             />
                             <DevProject 
                                 ActivedNewest={ActivedNewest}
                                 NameProject={'Labeltic'}
-                                Date={'4 August 2024 - 17 August 2024'}
+                                Date={'4 August 2024 - 17 August 2024, 13 Days'}
                                 Desc={'Helping to count a large number of lists quickly, labeltic has a replace text feature, which helps make it easier to edit text that has a large number of words.'}
                                 Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1724169627/Labeltic_demo_vid_ilyeh2.mp4'}
                                 AltThumb={'Labeltic.xyz'}
@@ -269,7 +269,7 @@ export default function PortfolioSect() {
                             <DevProject 
                                 // ActivedNewest={ActivedNewest}
                                 NameProject={'Cookit.app'}
-                                Date={'June 2024 - August 2024'}
+                                Date={'June 2024 - August 2024, 2 Month'}
                                 Desc={'Specialized for anyone who has a passion for cooking, this app offers a variety of features that make it easy for you to find recipes and how to make them, full of interesting recipes!'}
                                 Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1722147200/Untitled_design_1_exgeb7.mp4'}
                                 AltThumb={'Cookit.app'}
