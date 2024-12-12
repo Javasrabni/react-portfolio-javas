@@ -252,7 +252,7 @@ export default function PortfolioSect() {
                                 // ActivedNewest={ActivedNewest}
                                 NameProject={'JarJournal (Dynamic WebApp)'}
                                 Date={'11 October 2024 - Now,'}
-                                Desc={'JarJournal menggabungkan kekuatan produktivitas dan komunitas. Catat tujuan, atur waktu, dan bagikan inspirasimu di satu platform. Dengan JarJournal, kamu dapat mengubah cara menjalani hari—dari mengatur tugas dan menulis cerita hingga berbagi ide besar dengan komunitas yang mendukung. ruang untuk menulis ide, merencanakan impian, dan terhubung dengan komunitas yang membantu kamu tumbuh.'}
+                                Desc={'JarJournal menggabungkan kekuatan produktivitas dan komunitas. Catat tujuan, atur waktu, dan bagikan inspirasimu di satu platform. Dengan JarJournal, kamu dapat mengubah cara menjalani hari—dari mengatur tugas dan menulis cerita hingga berbagi ide besar dengan komunitas yang mendukung.'}
                                 Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1731403662/lv_0_20241112161116_fmrpzl.mp4'}
                                 AltThumb={'JarJournal'}
                                 TechUsed={['Express.Js', 'React.Js','Node.Js','JavaScript','Tailwind CSS']}
