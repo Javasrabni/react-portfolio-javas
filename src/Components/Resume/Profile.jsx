@@ -35,7 +35,7 @@ export default function Profile() {
                     <p className={MobileMode ? 'RoleMobile' : "Role"}>{Resume.map(Item => Item.Role)} <i class="fa-solid fa-code" style={{fontSize: MobileMode ? "10px" : '12px'}}></i></p>
                 </div>
                 <div style={{width: "110px", height: "110px", flexShrink: "0", backgroundColor: "var(--border)", borderRadius: "100px", display: "grid", placeItems: "center"}}>
-                    <img src='https://res.cloudinary.com/dwf753l9w/image/upload/v1722044029/Javas_obqwji.jpg' alt={Resume.map(Item => Item.Nama.split(' ')[0])} width={'100%'} height={'100%'} style={{borderRadius: "100px"}} onContextMenu={(e)=> e.preventDefault()} draggable="false" />
+                    <img src='https://res.cloudinary.com/dwf753l9w/image/upload/v1734633268/IMG-20241020-WA0051_1_wfeaip.jpg' alt={Resume.map(Item => Item.Nama.split(' ')[0])} width={'100%'} height={'100%'} style={{borderRadius: "100px"}} onContextMenu={(e)=> e.preventDefault()} draggable="false" />
                 </div>
             </div>
 
