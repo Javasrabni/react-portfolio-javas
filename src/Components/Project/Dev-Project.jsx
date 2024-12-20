@@ -148,7 +148,7 @@ export default function DevProject({Thumbnail, AltThumb, NameProject, Date, Desc
                         ) : (
                             <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-between', alignItems: "center", justifyContent: 'space-between', width: "100%"}}>
                                 <div>
-                                    <p style={{fontSize: "12px", display: Props.UIProject && "none"}}>Technology used:</p>
+                                    <p style={{fontSize: "12px", display: Props.UIProject && "none", color: "white"}}>Technology used:</p>
                                     {TechnologyUsed.map((item, index) => 
                                         <div key={index} style={{width: "fit-content", display: 'flex', gap: "8px", marginTop: "8px", fontSize: "10px", paddingBottom:"2px", flexWrap: 'wrap'}}>
                                            {item && item.filter(value => value).map((subItem, index) => (
