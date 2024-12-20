@@ -256,7 +256,9 @@ export default function PortfolioSect() {
 
 Butuh teman bicara tapi bingung harus ke mana? JarJournal punya solusinya! Dengan fitur yang terintegrasi dengan AI Chatbot, kamu bisa ngobrol kapan saja, baik untuk curhat, belajar, atau berdiskusi tentang ide-ide baru. Chatbot ini dirancang untuk memahami dan mendukungmu, seperti seorang teman yang selalu ada. Nggak cuma ngobrol, kamu juga bisa dapet insight dan bantuan yang bikin aktivitasmu lebih produktif!
 
-Selain itu, JarJournal memudahkan kamu mencatat tujuan, mengatur waktu, dan berbagi inspirasi di satu tempat. ruang untuk menulis cerita pribadi, merencanakan tugas, dan berkolaborasi dengan komunitas yang mendukung. ✨`}
+Selain itu, JarJournal memudahkan kamu mencatat tujuan, mengatur waktu, dan berbagi inspirasi di satu tempat. ruang untuk menulis cerita pribadi, merencanakan tugas, dan berkolaborasi dengan komunitas yang mendukung. 🌟✨
+
+`}
                                 Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1731403662/lv_0_20241112161116_fmrpzl.mp4'}
                                 AltThumb={'JarJournal'}
                                 TechUsed={['Express.Js', 'React.Js','Node.Js','JavaScript','Tailwind CSS']}
