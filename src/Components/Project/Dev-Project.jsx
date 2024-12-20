@@ -10,7 +10,7 @@ export default function DevProject({Thumbnail, AltThumb, NameProject, Date, Desc
     const [HoveringCard, setHoveringCard] = useState(false)
     const ContainerBox = {
         width: Props.NewWidth ? Props.NewWidth : MobileMode ? "100%" : "306px",
-        height: Props.NewHeight ? Props.NewHeight : Props.Certife ? MobileMode ? "100%" : "190px" : Props.UIProject ? "100%" : "370px",
+        height: Props.NewHeight ? Props.NewHeight : Props.Certife ? MobileMode ? "100%" : "fit-content" : Props.UIProject ? "100%" : "370px",
         outline: Props.ActivedNewest ? "2px solid blue" : HoveringCard ? "2px solid var(--border)" : "1px solid var(--border)",
         borderRadius: "8px",
         display: "flex",
