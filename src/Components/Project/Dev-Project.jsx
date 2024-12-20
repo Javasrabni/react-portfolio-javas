@@ -110,7 +110,7 @@ export default function DevProject({Thumbnail, AltThumb, NameProject, Date, Desc
 
                     {/* Certificate */}
                     {Props.Certife && (
-                        <p style={{...TitleProject, fontSize: Props.NewFontSize ? "10px" : ".75rem", fontWeight: "400", marginTop: Props.NewFontSize ? "2px" : "8px", letterSpacing: "0px", lineHeight: "1rem", color: "var(--muted-foreground)"}}>{Date}</p>
+                        <p style={{...TitleProject, fontSize: Props.NewFontSize ? "12px" : ".75rem", fontWeight: "400", marginTop: Props.NewFontSize ? "2px" : "8px", letterSpacing: "0px", lineHeight: "1rem", color: "var(--muted-foreground)"}}>{Date}</p>
                     )}
                     <h3 style={TitleProject}>{NameProject}</h3>
 
@@ -127,7 +127,7 @@ export default function DevProject({Thumbnail, AltThumb, NameProject, Date, Desc
                     )}
 
                     {!Props.DisableDesc && (
-                        <p style={{...TitleProject, fontSize: Props.NewFontSize ? "10px" : ".75rem", fontWeight: "400", marginTop: "8px", letterSpacing: "0px", lineHeight: Props.NewFontSize ? "static" : "1rem", color: "var(--muted-foreground)", whiteSpace: "pre-wrap"}}>{Desc}</p>
+                        <p style={{...TitleProject, fontSize: Props.NewFontSize ? "12px" : ".75rem", fontWeight: "400", marginTop: "8px", letterSpacing: "0px", lineHeight: Props.NewFontSize ? "static" : "1rem", color: "var(--muted-foreground)", whiteSpace: "pre-wrap"}}>{Desc}</p>
                     )}
 
                 </div>
