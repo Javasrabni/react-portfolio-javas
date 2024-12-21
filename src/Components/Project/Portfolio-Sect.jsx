@@ -259,7 +259,7 @@ Butuh teman bicara tapi bingung harus ke mana? JarJournal punya solusinya! Denga
 Selain itu, JarJournal memudahkan kamu mencatat tujuan, mengatur waktu, dan berbagi inspirasi di satu tempat. ruang untuk menulis cerita pribadi, merencanakan tugas, dan berkolaborasi dengan komunitas yang mendukung. 🌟✨
 
 `}
-                                Thumbnail={'https://res.cloudinary.com/dwf753l9w/image/upload/v1734757958/COVER_PORTFOLIO_umujbf.webp'}
+                                Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1734760383/lv_0_20241221125116_rs38tk.mp4'}
                                 AltThumb={'JarJournal'}
                                 TechUsed={['Express.Js', 'React.Js','Node.Js','JavaScript','Tailwind CSS']}
                             />
