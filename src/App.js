@@ -15,18 +15,18 @@ export default function App() {
   const Mobile = MobileQuerry.matches
   return (
     <div className="App">
-            <div className="Linear-Background" />
-            <div className="Home" style={{padding: Mobile ? "3rem 24px" : "6rem 24px"}}>
-              <MobileMode>
-                <Profile />
-                <Skills />
-                <PortfolioSect />
-                <CertifeSect />
-                <MusicPlayer />
-                <Footer />
-              </MobileMode>
-              <Analytics />
-            </div>
+      <div className="Linear-Background" />
+      <div className="Home" style={{ padding: Mobile ? "3rem 24px" : "6rem 24px" }}>
+        <MobileMode>
+          <Profile />
+          <Skills />
+          <PortfolioSect />
+          <CertifeSect />
+          <MusicPlayer />
+          <Footer />
+        </MobileMode>
+      </div>
+      <Analytics />
     </div>
   );
 }
