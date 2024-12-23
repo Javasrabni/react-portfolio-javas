@@ -1,6 +1,6 @@
 import './App.css';
 // import { BrowserRouter, Route, Routes } from 'react-router-dom';
-
+import { Analytics } from '@vercel/analytics/react';
 import Profile from "./Components/Resume/Profile"
 import Skills from "./Components/Skills/Skills"
 import PortfolioSect from "./Components/Project/Portfolio-Sect"
@@ -25,6 +25,7 @@ export default function App() {
                 <MusicPlayer />
                 <Footer />
               </MobileMode>
+              <Analytics />
             </div>
     </div>
   );
