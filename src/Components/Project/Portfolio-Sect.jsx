@@ -261,7 +261,7 @@ Selain itu, JarJournal memudahkan kamu mencatat tujuan, mengatur waktu, dan berb
 `}
                                 Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1734760383/lv_0_20241221125116_rs38tk.mp4'}
                                 AltThumb={'JarJournal'}
-                                TechUsed={['Express.Js', 'React.Js','Node.Js','JavaScript','Tailwind CSS']}
+                                TechUsed={['Express.Js', 'React.Js','Node.Js','JavaScript','Tailwind CSS', 'REST API']}
                             />
                             <DevProject 
                                 ActivedNewest={ActivedNewest}
