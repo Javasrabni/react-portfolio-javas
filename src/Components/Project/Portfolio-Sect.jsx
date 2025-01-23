@@ -251,7 +251,7 @@ export default function PortfolioSect() {
                             <DevProject 
                                 // ActivedNewest={ActivedNewest}
                                 NameProject={'JarJournal - Power of productivity and community. (Dynamic WebApp)'}
-                                Date={'Project Timeline: 11 October 2024 - Present (2 Months, 9 Days)'}
+                                Date={'Project Timeline: 11 October 2024 - Present'}
                                 Desc={`JarJournal adalah platform yang menggabungkan produktivitas dan komunitas, dirancang untuk membantu kamu memaksimalkan potensi diri.
 
 Butuh teman bicara tapi bingung harus ke mana.. JarJournal punya solusinya Dengan fitur yang terintegrasi dengan AI Chatbot, kamu bisa ngobrol kapan saja, baik untuk curhat, belajar, atau berdiskusi tentang ide-ide baru. Chatbot ini dirancang untuk memahami dan mendukungmu, seperti seorang teman yang selalu ada. engga cuma ngobrol, kamu juga bisa dapet insight dan bantuan yang bikin aktivitasmu lebih produktif!
