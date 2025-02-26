@@ -15,7 +15,8 @@ export default function Skills() {
         flexWrap: "wrap"
     }
 
-    const Skills = [{ Name: 'Sequelize', Icon: <i class="devicon-sequelize"></i>},{ Name: 'MySQL', Icon: <i class="devicon-mysql-original"></i>},
+    const Skills = [{ Name: 'Sequelize', Icon: <i class="devicon-sequelize-plain"></i>},{ Name: 'MySQL', Icon: <i class="devicon-mysql-plain-wordmark"></i>
+          },
         { Name: 'Python (Flask)', Icon: <i class="fa-brands fa-python"></i> },
         { Name: 'Express.Js', Icon: <i class="devicon-express-original"></i>},
         { Name: 'React.Js', Icon: <i class="devicon-react-original"></i> },
