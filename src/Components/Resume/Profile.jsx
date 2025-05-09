@@ -42,9 +42,9 @@ export default function Profile() {
             {/* About */}
             <div style={About}>
                 <h1 style={HeadingFontSize}>About</h1>
-                <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}>Student at Man 1 Kota Tangerang with a keen interest in programming. I have sufficient <span style={HightLight}>experience in Web/WebApp production</span> with MERN Stack and focus on functional and user experience.
-                <br /> <br />
-                And I have an ability to convert visual design (UI/UX) into functional code and optimize website display to run smoothly and responsively across various devices and browsers.</p>
+                <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}>Software developer dengan keahlian dalam pengembangan aplikasi fullstack menggunakan React dan Express, serta pengalaman dalam membangun antarmuka interaktif, sistem dinamis, dan integrasi API. Terbiasa menerapkan prinsip clean code dan efisiensi dalam setiap proyek, dengan fokus pada pengalaman pengguna yang optimal dan arsitektur yang skalabel.
+                </br></br>
+Memiliki kompetensi tambahan dalam pengembangan aplikasi desktop berbasis Python dengan Tkinter, memungkinkan fleksibilitas lintas platform. Selalu mengutamakan ketelitian, stabilitas sistem, dan kualitas akhir, serta aktif mengikuti perkembangan teknologi untuk memastikan solusi yang dikembangkan tetap relevan dan profesional.</p>
             </div>
 
             {/* Education */}
