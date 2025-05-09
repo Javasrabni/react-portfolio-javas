@@ -43,7 +43,8 @@ export default function Profile() {
             <div style={About}>
                 <h1 style={HeadingFontSize}>About</h1>
                 <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}>Software developer dengan keahlian dalam pengembangan aplikasi fullstack menggunakan React dan Express, serta pengalaman dalam membangun antarmuka interaktif, sistem dinamis, dan integrasi API. Terbiasa menerapkan prinsip clean code dan efisiensi dalam setiap proyek, dengan fokus pada pengalaman pengguna yang optimal dan arsitektur yang skalabel.
-                </br></br> Memiliki kompetensi tambahan dalam pengembangan aplikasi desktop berbasis Python dengan Tkinter, memungkinkan fleksibilitas lintas platform. Selalu mengutamakan ketelitian, stabilitas sistem, dan kualitas akhir, serta aktif mengikuti perkembangan teknologi untuk memastikan solusi yang dikembangkan tetap relevan dan profesional.
+                <br /><br /> 
+            Memiliki kompetensi tambahan dalam pengembangan aplikasi desktop berbasis Python dengan Tkinter, memungkinkan fleksibilitas lintas platform. Selalu mengutamakan ketelitian, stabilitas sistem, dan kualitas akhir, serta aktif mengikuti perkembangan teknologi untuk memastikan solusi yang dikembangkan tetap relevan dan profesional.
                 </p>
             </div>
 
