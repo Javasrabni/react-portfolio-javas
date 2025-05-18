@@ -42,9 +42,9 @@ export default function Profile() {
             {/* About */}
             <div style={About}>
                 <h1 style={HeadingFontSize}>About</h1>
-                <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}>Software developer dengan keahlian dalam pengembangan aplikasi fullstack menggunakan React dan Express, serta pengalaman dalam membangun antarmuka interaktif, sistem dinamis, dan integrasi API. Terbiasa menerapkan prinsip clean code dan efisiensi dalam setiap proyek, dengan fokus pada pengalaman pengguna yang optimal dan arsitektur yang skalabel.
+                <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}>Sebagai Fullstack Web Developer dan Digital Marketer, saya menggabungkan keahlian teknis dan strategi pemasaran untuk menciptakan produk digital yang tidak hanya berfungsi dengan baik, tetapi juga membawa dampak nyata bagi pengguna dan bisnis. Memiliki pengalaman dalam membangun aplikasi fullstack menggunakan React dan Express Js, saya berfokus pada antarmuka interaktif, sistem dinamis, dan integrasi API yang efisien dengan prinsip clean code dan arsitektur yang skalabel.
                 <br /><br /> 
-            Memiliki kompetensi tambahan dalam pengembangan aplikasi desktop berbasis Python dengan Tkinter, memungkinkan fleksibilitas lintas platform. Selalu mengutamakan ketelitian, stabilitas sistem, dan kualitas akhir, serta aktif mengikuti perkembangan teknologi untuk memastikan solusi yang dikembangkan tetap relevan dan profesional.
+            Selain itu, saya memiliki kemampuan tambahan dalam pengembangan aplikasi desktop menggunakan Python Tkinter sebagai nilai tambah fleksibilitas lintas platform. Saya selalu mengutamakan ketelitian, kualitas produk akhir, sambil terus mengikuti perkembangan teknologi dan tren digital marketing untuk memastikan solusi yang saya kembangkan relevan dan berdampak.
                 </p>
             </div>
 
