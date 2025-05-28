@@ -42,9 +42,9 @@ export default function Profile() {
             {/* About */}
             <div style={About}>
                 <h1 style={HeadingFontSize}>About</h1>
-                <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}>Sebagai Fullstack Web Developer dan Digital Marketer, saya menggabungkan keahlian teknis dan strategi pemasaran untuk menciptakan produk digital yang tidak hanya berfungsi dengan baik, tetapi juga membawa dampak nyata bagi pengguna dan bisnis. Memiliki pengalaman dalam membangun aplikasi fullstack menggunakan React dan Express Js, saya berfokus pada antarmuka interaktif, sistem dinamis, dan integrasi API yang efisien dengan prinsip clean code dan arsitektur yang skalabel.
+                <p style={{fontSize: MobileMode ? "12px" : "14px", lineHeight: MobileMode ? "1rem" : "1.25rem"}}> As a Fullstack Web Developer, I combine technical expertise and marketing strategy to create digital products that not only work well, but also bring real impact to users and businesses. Having experience in building fullstack applications using React and Express Js, I focus on interactive interfaces, dynamic systems, and efficient API integration with clean code principles and scalable architecture.
                 <br /><br /> 
-            Selain itu, saya memiliki kemampuan tambahan dalam pengembangan aplikasi desktop menggunakan Python Tkinter sebagai nilai tambah fleksibilitas lintas platform. Saya selalu mengutamakan ketelitian, kualitas produk akhir, sambil terus mengikuti perkembangan teknologi dan tren digital marketing untuk memastikan solusi yang saya kembangkan relevan dan berdampak.
+I have additional capabilities in desktop application development using Python Tkinter as an added value of cross-platform flexibility. I always prioritize thoroughness, quality of the final product, while keeping up to date with technology and digital marketing trends to ensure the solutions I develop are relevant and impactful.
                 </p>
             </div>
 
