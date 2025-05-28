@@ -25,14 +25,14 @@ export default function Education({NameSchool, DetailSchool, SchoolLogo, YearSch
         flexDirection: "row",
         alignItems: "center",
         width: "100%",
-        gap: "14px",
+        gap: "8px",
     }
     
     return (
         <div style={Education} onClick={HandleDirectLink} onMouseOver={()=> setTouch(true)} onMouseLeave={()=> setTouch(false)} >
             <div style={WrappingContainerSch}>
                 <div style={ContainerSchoolLogo}>
-                    <img src={SchoolLogo} alt="Man 1 Kota Tangerang" width={'80%'} height={'80%'} style={{ borderRadius: "100px", objectFit: "cover", }} />
+                    <img src={SchoolLogo} alt="" width={'80%'} height={'80%'} style={{ borderRadius: "100px", objectFit: "cover", }} />
                 </div>
                 <div style={{display: 'flex', flexDirection: "row", width: "100%", justifyContent: "space-between", alignItems: "center"}}>
                     <div style={{display: "flex", flexDirection: "row", justifyContent: "space-between",}}>
@@ -46,7 +46,7 @@ export default function Education({NameSchool, DetailSchool, SchoolLogo, YearSch
                             )}
                         </div>
                     </div>
-                    <div>
+                    <div style={{flexShrink: '0'}}>
                         <p style={{fontSize: MobileMode ? "12px" : "14px"}}>{YearSchool}</p>
                     </div>
                 </div>
