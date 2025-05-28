@@ -251,12 +251,12 @@ export default function PortfolioSect() {
                             <DevProject 
                                 // ActivedNewest={ActivedNewest}
                                 NameProject={'JarJournal - Power of productivity and community. (Dynamic WebApp)'}
-                                Date={'Project Timeline: 11 October 2024 - Present'}
-                                Desc={`JarJournal adalah platform yang menggabungkan produktivitas dan komunitas, dirancang untuk membantu kamu memaksimalkan potensi diri.
+                                Date={'Project Timeline: October 2024 - March 2025'}
+                                Desc={`JarJournal is designed to help you reach your full potential in your personal and professional life.
 
-Butuh teman bicara tapi bingung harus ke mana.. JarJournal punya solusinya Dengan fitur yang terintegrasi dengan AI Chatbot, kamu bisa ngobrol kapan saja, baik untuk curhat, belajar, atau berdiskusi tentang ide-ide baru. Chatbot ini dirancang untuk memahami dan mendukungmu, seperti seorang teman yang selalu ada. engga cuma ngobrol, kamu juga bisa dapet insight dan bantuan yang bikin aktivitasmu lebih produktif!
+The responsive and intelligent AI Chatbot feature allows you to have a virtual friend to talk to at any time, whether it's just to chat, learn something new, or discuss fresh ideas. The chatbot is designed to understand the context of the conversation and provide relevant support according to your situation.
 
-Selain itu, JarJournal memudahkan kamu mencatat tujuan, mengatur waktu, dan berbagi inspirasi di satu tempat. ruang untuk menulis cerita pribadi, merencanakan tugas, dan berkolaborasi dengan komunitas yang mendukung. 🌟✨
+JarJournal also provides useful insights and practical help that can be directly applied to your daily activities.
 
 `}
                                 Thumbnail={'https://res.cloudinary.com/dwf753l9w/video/upload/v1734760383/lv_0_20241221125116_rs38tk.mp4'}
