@@ -49,6 +49,17 @@ I have additional capabilities in desktop application development using Python T
             </div>
 
             {/* Education */}
+ <div style={{display: "flex", flexDirection: "column", gap: "14px", cursor: "pointer"}}>
+                <h1 style={{...HeadingFontSize, lineHeight: "1.75rem"}}>Education</h1>
+                <Education 
+                    SchoolLogo={'https://res.cloudinary.com/dwf753l9w/image/upload/v1748456851/pngwing.com_1_qyd99g.png'}
+                    NameSchool={'Universitas Sultan Ageng Tirtayasa'}
+                    DetailSchool={''}
+                    YearSchool={'2025 - Present'}
+                    DirectLinkSchool={'https://untirta.ac.id'}
+                />
+            </div>
+
             <div style={{display: "flex", flexDirection: "column", gap: "14px", cursor: "pointer"}}>
                 <h1 style={{...HeadingFontSize, lineHeight: "1.75rem"}}>Education</h1>
                 <Education 
