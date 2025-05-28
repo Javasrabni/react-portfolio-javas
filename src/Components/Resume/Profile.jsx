@@ -55,13 +55,12 @@ I have additional capabilities in desktop application development using Python T
                     SchoolLogo={'https://res.cloudinary.com/dwf753l9w/image/upload/v1748456851/pngwing.com_1_qyd99g.png'}
                     NameSchool={'Universitas Sultan Ageng Tirtayasa'}
                     DetailSchool={''}
-                    YearSchool={'2025 - Present'}
+                    YearSchool={'2025 - *'}
                     DirectLinkSchool={'https://untirta.ac.id'}
                 />
             </div>
 
-            <div style={{display: "flex", flexDirection: "column", gap: "14px", cursor: "pointer"}}>
-                <h1 style={{...HeadingFontSize, lineHeight: "1.75rem"}}>Education</h1>
+            <div style={{display: "flex", flexDirection: "column", gap: "0px", cursor: "pointer"}}>
                 <Education 
                     SchoolLogo={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722078352/man_1_uia6dw.jpg'}
                     NameSchool={'Man 1 Kota Tangerang'}
