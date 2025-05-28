@@ -25,7 +25,7 @@ export default function Education({NameSchool, DetailSchool, SchoolLogo, YearSch
         flexDirection: "row",
         alignItems: "center",
         width: "100%",
-        gap: "8px",
+        gap: "16px",
     }
     
     return (
