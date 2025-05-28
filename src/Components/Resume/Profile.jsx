@@ -49,7 +49,7 @@ I have additional capabilities in desktop application development using Python T
             </div>
 
             {/* Education */}
- <div style={{display: "flex", flexDirection: "column", gap: "14px", cursor: "pointer"}}>
+ <div style={{display: "flex", flexDirection: "column", gap: "6px", cursor: "pointer"}}>
                 <h1 style={{...HeadingFontSize, lineHeight: "1.75rem"}}>Education</h1>
                 <Education 
                     SchoolLogo={'https://res.cloudinary.com/dwf753l9w/image/upload/v1748456851/pngwing.com_1_qyd99g.png'}
