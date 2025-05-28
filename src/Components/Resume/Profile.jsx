@@ -66,7 +66,7 @@ I have additional capabilities in desktop application development using Python T
                     NameSchool={'Man 1 Kota Tangerang'}
                     DetailSchool={'Social Science (IPS)'}
                     YearSchool={'2022 - 2025'}
-                    DirectLinkSchool={'https://www.man-1kotatangerang.com'}
+                    DirectLinkSchool={''}
                 />
             </div>
 
