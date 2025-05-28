@@ -49,8 +49,9 @@ I have additional capabilities in desktop application development using Python T
             </div>
 
             {/* Education */}
- <div style={{display: "flex", flexDirection: "column", gap: "16px", cursor: "pointer"}}>
+ <div style={{display: "flex", flexDirection: "column", gap: "8px", cursor: "pointer"}}>
                 <h1 style={{...HeadingFontSize, lineHeight: "1.25rem"}}>Education</h1>
+
                 <Education 
                     SchoolLogo={'https://res.cloudinary.com/dwf753l9w/image/upload/v1748456851/pngwing.com_1_qyd99g.png'}
                     NameSchool={'Universitas Sultan Ageng Tirtayasa'}
@@ -60,15 +61,14 @@ I have additional capabilities in desktop application development using Python T
                 />
             </div>
 
-            <div style={{display: "flex", flexDirection: "column", gap: "0px", cursor: "pointer"}}>
                 <Education 
                     SchoolLogo={'https://res.cloudinary.com/dwf753l9w/image/upload/v1722078352/man_1_uia6dw.jpg'}
-                    NameSchool={'Man 1 Kota Tangerang'}
-                    DetailSchool={'Social Science (IPS)'}
+                    NameSchool={'MAN 1 Kota Tangerang'}
+                    DetailSchool={'Social Science'}
                     YearSchool={'2022 - 2025'}
                     DirectLinkSchool={''}
                 />
-            </div>
+         
 
         </div>
     )
